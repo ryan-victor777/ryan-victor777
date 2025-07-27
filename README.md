@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, eu sou o Ryan Victor</h1>
+<h1 align="center">Olá, bem vindo ao meu GitHub👋</h1>
 <h3 align="center">Desenvolvedor Flutter & apaixonado por tecnologia</h3>
 
 <p align="center">
@@ -9,13 +9,13 @@
 
 ---
 
-- 💼 Atualmente trabalhando em projetos de apps multiplataforma
-- 🧠 Estudando **clean architecture**, **Riverpod** e **Firebase**
-- 🌱 Compartilho meus aprendizados aqui no GitHub e no [LinkedIn](https://linkedin.com/in/seu-usuario)
-- 📫 Como me encontrar: **seu.email@gmail.com**
+- 💼 Atualmente trabalhando em projetos de aplicações multiplataforma com foco em performance, escalabilidade e produto
+- 🧠 Estudando arquitetura escalável com **clean architecture** e princípios SOLID
+- 🧠 Aplicações com foco em usabilidade, performance e manutenção
+- 🌱 Compartilho meus aprendizados aqui no GitHub e no [LinkedIn](https://www.linkedin.com/in/jose-ryan-victor-244b6180/)
 
 ---
-
+<!--
 ### 🚀 Tecnologias que uso no dia a dia:
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=dart)
@@ -25,12 +25,13 @@
 
 ---
 
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ryanvictor&show_icons=true&theme=github_dark&hide_title=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanvictor&layout=compact&langs_count=7&theme=github_dark"/>
 </p>
-
+-->
 
 
